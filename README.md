@@ -41,7 +41,7 @@ Now, let's navigate to the new resource we created and find 'Backup Policies' in
 <br />
 
 <p>
-<img src="https://github.com/kyanahenry/azure-backup/assets/137842747/a728433e-da04-4925-bd43-81ee3af13920"/>
+<img src="https://github.com/kyanahenry/azure-backup/assets/137842747/d0afb65c-d34e-4704-81cf-f5088929cc12"/>
 </p>
 <p>
 Let's go back into Azure and create a virtual machine to backup; I'll name the virtual machine 'Rhyme-VM-01'.
