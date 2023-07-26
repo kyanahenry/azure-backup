@@ -17,10 +17,10 @@ This tutorial outlines how to create and configure effective backup policies for
 
 <h2>Project Outilne</h2>
 
-- Create a Recovery Vault
-- Configure Backup Policies
-- Create an Azure Virtual Machine
-- Implement Azure VM Backup
+- Create a Recovery Vault to store backup data
+- Configure Backup Policies to govern the backup
+- Create a free-tier Windows Virtual Machine in Azure
+- Implement Backup Policies on Windows VM
 
 <h2></h2>
 
